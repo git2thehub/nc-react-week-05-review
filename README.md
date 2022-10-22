@@ -7,17 +7,27 @@
 03. HTTP methods
 04. HTTP status codes
 05. JSON
-06. REST (current)
-07. Promises
+06. REST
+07. Promises (current)
 08. async/await
 09. Fetch
 10. Redux Thunk
 11. createAsyncThunk()
 12. extraReducers
 
-## REST 
-* slide
+## Promises
+* slide 14
+  * no freezing!
+* status - slide 15
+* instance methods - slide 16
+* create a promise - slide 17
 
 ## Resources
-[dig deeper](https://www.codecademy.com/article/what-is-rest)
-[what is a rest api](https://www.youtube.com/watch?v=lsMQRaeKNDk)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises#:~:text=A%20Promise%20is%20an%20object,failure%20of%20an%20asynchronous%20operation.
+https://www.freecodecamp.org/news/what-is-promise-in-javascript-for-beginners/
+[callbacks](https://www.youtube.com/watch?v=cNjIUSDnb9k)
+[callback hell](http://callbackhell.com/)
+[event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+
+
