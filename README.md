@@ -2,9 +2,9 @@
 
 ## Overview
 00. Welcome (main)
-01. Networking essentials (current)
-02. HTTP
-03. HTTP methods
+01. Networking essentials 
+02. HTTP 
+03. HTTP methods (current)
 04. HTTP status codes
 05. JSON
 06. REST
@@ -15,6 +15,7 @@
 11. createAsyncThunk()
 12. extraReducers
 
-## HTTP
-* Read slide 
+## HTTP methods
+* slide
+* https://www.w3schools.com/tags/ref_httpmethods.asp
 
