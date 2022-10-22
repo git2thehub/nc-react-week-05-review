@@ -12,10 +12,10 @@
 08. async/await
 09. Fetch 
 10. Redux
-11. createAsyncThunk() (current)
-12. extraReducers
+11. createAsyncThunk()
+12. extraReducers (current)
 
 ## createAsyncThunk()
-* 3 slides
+* 1 slide
 
 
