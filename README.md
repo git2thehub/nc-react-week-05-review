@@ -9,16 +9,20 @@
 05. JSON
 06. REST
 07. Promises
-08. async/await (current)
-09. Fetch
+08. async/await
+09. Fetch (current)
 10. Redux Thunk
 11. createAsyncThunk()
 12. extraReducers
 
-## Async / Await
+## Fetch
 * slide
+* view script.js (fetch needs browser)
+
+## environment with fetch
+The "ReferenceError: fetch is not defined" occurs when the fetch() method is used in an environment where it's not supported - most commonly NodeJs. To solve the error, install and import the node-fetch package, which provides a fetch() compatible API in the NodeJs runtime.
 
 ## Resources
-[wes](https://www.youtube.com/watch?v=9YkUCxvaLEk)
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
 
