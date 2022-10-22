@@ -11,11 +11,11 @@
 07. Promises
 08. async/await
 09. Fetch 
-10. Redux Thunk (current)
-11. createAsyncThunk()
+10. Redux
+11. createAsyncThunk() (current)
 12. extraReducers
 
-## Fetch
-* slides
+## createAsyncThunk()
+* 3 slides
 
 
